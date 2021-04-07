@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=necatdede&label=Profile%20views&color=00ff6e&style=flat" alt="necatdede" /> </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/necat-dede-61278a1b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="necat-dede-61278a1b6" height="30" width="40" /></a>
@@ -17,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necatdede&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="necatdede" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necatdede&show_icons=true&theme=tokyonight&locale=en" alt="necatdede" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=necatdede&theme=dark" alt="necatdede" /></p>
