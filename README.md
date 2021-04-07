@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📌 GitHub Stats And Top Languages
 ![Necat's GitHub stats](https://github-readme-stats.vercel.app/api?username=necatdede&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necatdede&layout=compact)
+
