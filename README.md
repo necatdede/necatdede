@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Necat's GitHub stats](https://github-readme-stats.vercel.app/api?username=necatdede&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necatdede&layout=compact)](https://github.com/necatdede/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necatdede&layout=compact)
