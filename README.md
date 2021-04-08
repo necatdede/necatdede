@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/necat-dede-61278a1b6" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="necat-dede-61278a1b6" height="75" width="75" /></a>
 <a href="https://fb.com/necatdede0" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/Facebook#/media/File:Facebook_f_logo_(2019).svg" alt="necatdede0" height="60" width="75" /></a>
-<a href="https://instagram.com/necatdede" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png" alt="necatdede" height="60" width="60"/></a>
+<a href="https://instagram.com/necatdede" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png" alt="necatdede" height="75" width="75"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
