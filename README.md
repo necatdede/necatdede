@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/necat-dede-61278a1b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="necat-dede-61278a1b6" height="30" width="75" /></a>
-<a href="https://fb.com/necatdede0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="necatdede0" height="30" width="75" /></a>
-<a href="https://instagram.com/necatdede" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="necatdede" height="30" width="75" /></a>
+<a href="https://linkedin.com/in/necat-dede-61278a1b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="necat-dede-61278a1b6" height="60" width="75" /></a>
+<a href="https://fb.com/necatdede0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="necatdede0" height="60" width="75" /></a>
+<a href="https://instagram.com/necatdede" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="necatdede" height="60" width="75"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
