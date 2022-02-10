@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Necat</h1>
-<h2 align="center">I so like write code</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=necatdede&label=Profile%20views&color=00ff6e&style=flat" alt="necatdede" /> </p>
 
