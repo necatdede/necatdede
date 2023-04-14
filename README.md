@@ -1,27 +1,16 @@
-<h1 align="center">Hi 👋, I'm Necat</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=necatdede&label=Profile%20views&color=00ff6e&style=flat" alt="necatdede" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/necatdede" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="necat-dede-61278a1b6" height="75" width="75" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="70" height="70"/> </a> 
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="70" height="70"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="firebase" width="70" height="70"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="android" width="70" height="70"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="70" height="70"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" alt="mssql" width="70" height="70"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> </a>
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="70" height="70"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="70"/> </a> 
-</p>
+# 💫 About Me:
+Hi 👋, I'm Necat
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=necatdede&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="necatdede" /></p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/necatdede)
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=necatdede&show_icons=true&theme=tokyonight&locale=en" alt="necatdede" /></p>
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)     
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=necatdede&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=necatdede&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=necatdede&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=necatdede&label=♡ Profile%20views&color=164e63" alt="necatdede" /> </p>
